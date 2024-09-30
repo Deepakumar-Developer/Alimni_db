@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368441996486",
+    "project_id": "data-analysis-56bba",
+    "storage_bucket": "data-analysis-56bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368441996486:android:0c4494b6f662316b4993c7",
+        "android_client_info": {
+          "package_name": "com.deepakumar452005.alimni_db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGrGsMdC3SgF7PeBffnj1u3VDvyeW_ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368441996486:android:fc1b703de2c6be984993c7",
+        "android_client_info": {
+          "package_name": "com.deepakumar452005.data_analysis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGrGsMdC3SgF7PeBffnj1u3VDvyeW_ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
